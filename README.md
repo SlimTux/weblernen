@@ -14,4 +14,4 @@
 
 # Deutsch Guide
 
-> Ein Groß probjekt.🤪
+> Ein Groß probjekt. 🤪
