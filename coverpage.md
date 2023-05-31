@@ -1,17 +1,13 @@
 <div align="center">
   <br>
   <h1>Lernen😎</h1>
-<h2><strong>Zusammen können wir lernen!</strong></h2>
+<h1><strong>Zusammen können wir lernen!</strong></h1>
 </div>
 <br>
 <p align="center">
-<div class="container">
-<img src="https://mataroa.blog/images/969f9336.gif" alt="Link confuse"  width="1100" 
+<img src="https://mataroa.blog/images/10af1b2e.gif" alt="Germania"  width="300" 
      height="150" />
-  <div class="container">
+  </p>
 
-### Wilkomen bei [weblernen](https://slimtux.github.io/weblernen/). Es gibt eine ganz tolle Lernmethode... 👀  Man kann die Lieblingsmusik hören, mit Freunde sprechen, und viel Spaß haben.
+> Wilkomen bei [weblernen](https://slimtux.github.io/weblernen/).
 
-# Deutsch Guide
-
-> Ein großes Projekt. 🤪
