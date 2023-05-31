@@ -1,10 +1,17 @@
-# Activities
+<div align="center">
+  <br>
+  <h1>Lernen😎</h1>
+<h2><strong>Zusammen können wir lernen!</strong></h2>
+</div>
+<br>
+<p align="center">
+<div class="container">
+<img src="https://mataroa.blog/images/969f9336.gif" alt="Link confuse"  width="1100" 
+     height="150" />
+  <div class="container">
 
-> A delightfully simple [_blog_](https://docsify.js.org)
+### Wilkomen bei [weblernen](https://slimtux.github.io/weblernen/). Es gibt eine ganz tolle Lernmethode... 👀  Man kann die Lieblingsmusik hören, mit Freunde sprechen, und viel Spaß haben.
 
-- [Notes](https://slimtux.github.io/School/#/notes/subjects.md)
-- [Good stuff.](https://gist.github.com/SlimTux)
+# Deutsch Guide
 
-[Get Started](https://github.com/SlimTux/School) 
-[GitHub](https://github.com/SlimTux/School)
-[Notes](https://slimtux.github.io/School/#/notes/subjects.md)
+> Ein großes Projekt. 🤪
