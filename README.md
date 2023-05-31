@@ -10,8 +10,8 @@
      height="150" />
   <div class="container">
 
-### Wilkomen bei [weblernen](https://slimtux.github.io/weblernen/). Es gibt ein ganz toll lernen method... 👀  Mann wissen deine libensmittel musik gehort, mit freund sprechen, und viel spass haben. 
+### Wilkomen bei [weblernen](https://slimtux.github.io/weblernen/). Es gibt eine ganz tolle Lernmethode... 👀  Man kann die Lieblingsmusik hören, mit Freunde sprechen, und viel Spaß haben.
 
 # Deutsch Guide
 
-> Ein Groß probjekt. 🤪
+> Ein großes Projekt. 🤪
