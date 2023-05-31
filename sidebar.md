@@ -1,5 +1,5 @@
 - [CAS](https://slimtux.github.io/School/#/PROJECTS/project.md)
-- [💊](PROJECTS/First-post.md)
+- [🇩🇪](PROJECTS/First-post.md)
 - **Links**
 - [Github](https://github.com/SlimTux/School)
 - [Extra](https://gigachad.mataroa.blog) 
